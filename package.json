@@ -1,6 +1,6 @@
 {
   "name": "css-loader-quickstart",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "html": "cp public/index.html dist",
     "start": "npm run html && webpack --watch",
