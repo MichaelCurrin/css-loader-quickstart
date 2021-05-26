@@ -1,7 +1,7 @@
 # CSS Loader Quickstart
 > Starter template for using CSS Loader and Webpack
 
-![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/css-loader-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/css-loader-quickstart/releases/)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/css-loader-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/css-loader-quickstart/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 [![Made with Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
