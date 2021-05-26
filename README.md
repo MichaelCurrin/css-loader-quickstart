@@ -58,6 +58,14 @@ You might want to switch to using production settings in the Webpack config.
 
 ## About
 
+## How it works
+
+When running Webpack the JS file [index.js](/src/index.js) and styling imports gt bundled as a single JS file. In particular, there is a local CSS file ([styles.css](/src/styles.css)) and an installed CSS dependency (`sanitize.css`).
+
+The CSS gets added to the JS because of two CSS loading dependencies that are installed and also because Webpack is configured to use those dependencies for CSS files. See [webpack.config.js](/webpack.config.js).
+
+When the bundled JS file (`bundle.js`) gets loaded on the frontend, the JS will inserted the CSS into the DOM for you. So you don't need to add a style or link tag yourself.
+
 ### Dependencies
 
 - Webpack
