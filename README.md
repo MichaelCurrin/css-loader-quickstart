@@ -6,9 +6,18 @@
 
 [![Made with Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
 
-[![Package - webpack](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/css-loader-quickstart/webpack)](https://www.npmjs.com/package/webpack)
-[![Package - css-loader](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/css-loader-quickstart/css-loader)](https://www.npmjs.com/package/css-loader)
-[![Package - style-loader](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/css-loader-quickstart/style-loader)](https://www.npmjs.com/package/style-loader)
+[![Package - webpack](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/css-loader-quickstart/dev/webpack)](https://www.npmjs.com/package/webpack)
+[![Package - css-loader](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/css-loader-quickstart/dev/css-loader)](https://www.npmjs.com/package/css-loader)
+[![Package - style-loader](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/css-loader-quickstart/dev/style-loader)](https://www.npmjs.com/package/style-loader)
+
+
+## Use this project
+
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/css-loader-quickstart/generate)
+
+</div>
 
 
 ## Installation
